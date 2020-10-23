@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5093" started-at="2020-10-23T12:53:34Z" finished-at="2020-10-23T12:53:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5093" started-at="2020-10-23T12:53:34Z" finished-at="2020-10-23T12:53:39Z">
+      <class name="pluralsight.testcase.SearchTest">
+        <test-method status="PASS" signature="startUpBrowser()[pri:0, instance:pluralsight.testcase.SearchTest@51c668e3]" name="startUpBrowser" is-config="true" duration-ms="27" started-at="2020-10-23T12:53:34Z" finished-at="2020-10-23T12:53:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUpBrowser -->
+        <test-method status="PASS" signature="goToHome()[pri:0, instance:pluralsight.testcase.SearchTest@51c668e3]" name="goToHome" is-config="true" duration-ms="859" started-at="2020-10-23T12:53:34Z" finished-at="2020-10-23T12:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHome -->
+        <test-method status="PASS" signature="basicFilterByTest()[pri:0, instance:pluralsight.testcase.SearchTest@51c668e3]" name="basicFilterByTest" duration-ms="4183" started-at="2020-10-23T12:53:35Z" finished-at="2020-10-23T12:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicFilterByTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:pluralsight.testcase.SearchTest@51c668e3]" name="closeBrowser" is-config="true" duration-ms="161" started-at="2020-10-23T12:53:39Z" finished-at="2020-10-23T12:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- pluralsight.testcase.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="pluralsight.testcase.SearchTest" duration-ms="9669" started-at="2020-10-23T12:59:33Z" finished-at="2020-10-23T12:59:42Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="9669" started-at="2020-10-23T12:59:33Z" finished-at="2020-10-23T12:59:42Z">
+      <class name="pluralsight.testcase.SearchTest">
+        <test-method status="PASS" signature="startUpBrowser()[pri:0, instance:pluralsight.testcase.SearchTest@3bf9ce3e]" name="startUpBrowser" is-config="true" duration-ms="89" started-at="2020-10-23T12:59:33Z" finished-at="2020-10-23T12:59:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUpBrowser -->
+        <test-method status="PASS" signature="goToHome()[pri:0, instance:pluralsight.testcase.SearchTest@3bf9ce3e]" name="goToHome" is-config="true" duration-ms="1582" started-at="2020-10-23T12:59:33Z" finished-at="2020-10-23T12:59:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHome -->
+        <test-method status="PASS" signature="basicFilterByTest()[pri:0, instance:pluralsight.testcase.SearchTest@3bf9ce3e]" name="basicFilterByTest" duration-ms="8002" started-at="2020-10-23T12:59:34Z" finished-at="2020-10-23T12:59:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicFilterByTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:pluralsight.testcase.SearchTest@3bf9ce3e]" name="closeBrowser" is-config="true" duration-ms="143" started-at="2020-10-23T12:59:43Z" finished-at="2020-10-23T12:59:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- pluralsight.testcase.SearchTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- pluralsight.testcase.SearchTest -->
+</testng-results>
